@@ -2,6 +2,8 @@
 
 A CircuitPython project that creates spooky lighting effects in a carved pumpkin when motion is detected. Perfect for Halloween decorations that interact with trick-or-treaters!
 
+![Pumpkin Demo](pumpkin.gif)
+
 ## Features
 
 - Motion detection using a PIR sensor
